@@ -95,7 +95,7 @@ http://resources.practicalservicedesign.com/ExampleCupcakeBlueprint.pdf
 Understanding how it all adds up to create that surface customer journey means now you know. **And knowing is half the battle.**
 
 ###### 引用资源
-http://uedc.163.com/12158.html
-https://blog.practicalservicedesign.com/the-difference-between-a-journey-map-and-a-service-blueprint-31a6e24c4a6c#.qt6yp62cy
-http://resources.practicalservicedesign.com/ExampleCupcakeBlueprint.pdf
-https://mp.weixin.qq.com/s?__biz=MjM5NTQ5MjIyMA==&mid=2654540267&idx=3&sn=15fea67dd162818784f83a9fcb407415
+1. http://uedc.163.com/12158.html
+2. https://blog.practicalservicedesign.com/the-difference-between-a-journey-map-and-a-service-blueprint-31a6e24c4a6c#.qt6yp62cy
+3. http://resources.practicalservicedesign.com/ExampleCupcakeBlueprint.pdf
+4. https://mp.weixin.qq.com/s?__biz=MjM5NTQ5MjIyMA==&mid=2654540267&idx=3&sn=15fea67dd162818784f83a9fcb407415

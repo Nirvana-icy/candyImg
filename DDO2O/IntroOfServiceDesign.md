@@ -1,4 +1,4 @@
-## Rethinking in O2O with service design thinking.
+## Rethink O2O with service design thinking.
 ### -- 重新发现020的机会
 
 ### 1.O2O的热潮

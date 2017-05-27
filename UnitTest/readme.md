@@ -1,45 +1,46 @@
-### 开发阶段的自我检查 之 单元测试
+## 开发阶段的自我检查 之 单元测试
 
-##### Q:开发阶段我们可以进行哪些自我检查呢?
+#### Q:开发阶段我们可以进行哪些自我检查呢?
 
 例如:刚写好一个轮播图组件
+
 我们会造一些轮播图的数据 > 跑一把 看看效果
+
 修改一下数据 只有一张图片数据 > 跑一把 看看效果
+
 换用不同尺寸的图片 > 跑一把 看看效果
 
-###### 是的 在开发阶段我们经常会做自我检查
+#### 是的 在开发阶段我们经常会做自我检查
 
-##### A:从开发过程来分我们可以把开发阶段的自我检查划分为
+#### A:从开发过程来分我们可以把开发阶段的自我检查划分为
 
 test func > test class > test service || test UI
 
-相应的我们可以在开发阶段进行:
+#### 相应的我们可以在开发阶段进行:
 
 func test > class test > service test || UI test
 
-从后往前看 我们是否可以更系统的进行开发阶段的自我检查:
+#### 从后往前看 我们是否可以更系统的进行开发阶段的自我检查:
 
-UI Test我们做的很多 > 开发完毕 > mock数据 > 人肉看一下不同数据时 UI和功能是否正常
+1. UI Test我们做的很多 => 开发完毕 > mock数据 > 人肉看一下不同数据时 UI和功能是否正常
 
-service test？服务端通过接口测试做的比较多
+2. service test？=> 服务端通过接口测试做的比较多
 
-再往前看 class test & func test
+3. 再往前看 class test & func test => 不易触及 进行自我检查的次数比较少
 
-不易触及 进行自我检查的次数比较少
-
-今天我们的主题就是这里
+#### 今天我们的主题就是这里
 
 通过单元测试 我们可以方便的进行 func test & class test
 
-##### 什么是单元测试呢?
+#### 什么是单元测试呢?
 
 1. 最小可测单元_测试自己写的对外提供功能服务的API
 
 2. 不是为了发现bug，是为了提高开发效率，为了我们的代码健康可持续发展
 
-##### 单元测试的优缺点
+#### 单元测试的优缺点
 
-###### 优点：
+#### 优点：
 
 1. 单元测试能保证在加入新功能或修改旧功能时代码的正确性
 
@@ -51,19 +52,19 @@ service test？服务端通过接口测试做的比较多
 
 2. 代码重构后 => 功能影响的摸底与评估
 
-###### 缺点：
+#### 缺点：
 
 单元测试不能减少研发的代码量，反而会花费很多精力在编写单元测试上，增加了开发成本，而且对开发人员的要求也会更高
 
-##### 单元测试由谁来写?
+#### 单元测试由谁来写?
 
 最好是开发者本人
 
-##### 如何写单元测试?
+#### 如何写单元测试?
 
 每一个Test Case的写法有三个步骤：①Mock对象，准备测试数据。②调用要测试的目标API。③验证输出和行为是否正确
 
-##### iOS项目如何进行单元测试呢?
+#### iOS项目如何进行单元测试呢?
 
 1. XCTest in XCode
 
@@ -71,21 +72,21 @@ service test？服务端通过接口测试做的比较多
 
 3. Quick for Swift or OC (3rd framework)
 
-##### XCTest Example:
+#### XCTest Example:
 
 ![TestCaseWritenByXCTest](https://raw.githubusercontent.com/Nirvana-icy/candyImg/master/UnitTest/TestCaseWritenByXCTest.png)
 
-##### Quick Example:
+#### Quick Example:
 
 ![TestCaseWritenByQuick](https://raw.githubusercontent.com/Nirvana-icy/candyImg/master/UnitTest/TestCaseWritenByQuick.png)
 
-##### 单元测试应用案例(学习样本)
+#### 单元测试应用案例(学习样本)
 
 ![XCTestWorkInAF](https://raw.githubusercontent.com/Nirvana-icy/candyImg/master/UnitTest/XCTestWorkInAF.png)
 
 ![QuickWorkinRAC](https://raw.githubusercontent.com/Nirvana-icy/candyImg/master/UnitTest/QuickWorkinRAC.png)
 
-##### 单元测试落地计划:
+#### 单元测试落地计划:
 
 1. 基础服务  覆盖
 
@@ -95,7 +96,7 @@ service test？服务端通过接口测试做的比较多
 
 4. 重要业务viewModel 覆盖
 
-参考资料:
+#### 参考资料:
 
 1. [iOS单元测试基本介绍](https://baiduhidevios.github.io/2016/03/20/iOS单元测试/)
 

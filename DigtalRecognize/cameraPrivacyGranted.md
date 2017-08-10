@@ -20,11 +20,11 @@ Step 1: 拒绝 => 弹出权限开启引导对话框
 
 问题 2: 跳转系统设置 > 返回App => 黑屏页面
 
-![问题 2](http://112.124.41.46/bijinglong/candyimg/raw/master/DigtalRecognize/issue_1.gif)         
+![问题 2](https://github.com/Nirvana-icy/candyImg/raw/master/DigtalRecognize/issue_1.gif)         
 
 问题 3: 跳转系统设置 > 开启相机权限 > 返回App => 需要重新Launch App
 
-![问题 3](http://112.124.41.46/bijinglong/candyimg/raw/master/DigtalRecognize/issue_2.gif)    
+![问题 3](https://github.com/Nirvana-icy/candyImg/raw/master/DigtalRecognize/issue_2.gif)    
 
 继续优化 Step 2:  拒绝 => Pop To 前一页 > 弹出权限开启引导对话框
 
@@ -34,11 +34,11 @@ Step 1: 拒绝 => 弹出权限开启引导对话框
 
 Path 3⃣️  无授权 再次启动相机 > 弹出需要到系统设置开启对话框 如下图 微信  
 
-![微信](http://112.124.41.46/bijinglong/candyimg/raw/master/DigtalRecognize/WechatIMG5.jpeg)
+![微信](https://github.com/Nirvana-icy/candyImg/raw/master/DigtalRecognize/WechatIMG5.jpeg)
 
 优化 Step 1: 无授权 再次启动相机 > 弹出权限开启引导对话框 => 点击跳转系统设置  如 支付宝    
 
-![支付宝](http://112.124.41.46/bijinglong/candyimg/raw/master/DigtalRecognize/WechatIMG6.jpeg)   
+![支付宝](https://github.com/Nirvana-icy/candyImg/raw/master/DigtalRecognize/WechatIMG6.jpeg)   
 
 这里 存在同Path 2⃣️  问题二一样的问题 采取同样的逻辑进行处理
 
@@ -46,13 +46,11 @@ Path 3⃣️  无授权 再次启动相机 > 弹出需要到系统设置开启�
 
 ## 整理后的优化方案
 
-![整理后的优化方案](http://112.124.41.46/bijinglong/candyimg/raw/master/DigtalRecognize/final
-.png)
+![整理后的优化方案](https://github.com/Nirvana-icy/candyImg/raw/master/DigtalRecognize/final.png)
 
 ## 优化效果
 
-![优化效果](http://112.124.41.46/bijinglong/candyimg/raw/master/DigtalRecognize/okOne
-.gif)
+![优化效果](https://github.com/Nirvana-icy/candyImg/raw/master/DigtalRecognize/okOne.gif)
 
 ## 代码实现
 

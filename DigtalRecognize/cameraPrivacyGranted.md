@@ -46,19 +46,11 @@ Path 3⃣️  无授权 再次启动相机 > 弹出需要到系统设置开启�
 
 ## 整理后的优化方案
 
-<<<<<<< HEAD:DigtalRecognize/cameraPrivacyGranted.md
 ![整理后的优化方案](https://github.com/Nirvana-icy/candyImg/raw/master/DigtalRecognize/final.png)
 
 ## 优化效果
 
 ![优化效果](https://github.com/Nirvana-icy/candyImg/raw/master/DigtalRecognize/okOne.gif)
-=======
-![整理后的优化方案](http://112.124.41.46/bijinglong/candyimg/raw/master/DigtalRecognize/final.png)
-
-## 优化效果
-
-![优化效果](http://112.124.41.46/bijinglong/candyimg/raw/master/DigtalRecognize/okOne.gif)
->>>>>>> 0b821d7d6dce367f591d4cdcbda00f502c25d668:cameraPrivacyGranted.md
 
 ## 代码实现
 

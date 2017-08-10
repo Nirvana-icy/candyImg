@@ -46,13 +46,11 @@ Path 3⃣️  无授权 再次启动相机 > 弹出需要到系统设置开启�
 
 ## 整理后的优化方案
 
-![整理后的优化方案](http://112.124.41.46/bijinglong/candyimg/raw/master/DigtalRecognize/final
-.png)
+![整理后的优化方案](http://112.124.41.46/bijinglong/candyimg/raw/master/DigtalRecognize/final.png)
 
 ## 优化效果
 
-![优化效果](http://112.124.41.46/bijinglong/candyimg/raw/master/DigtalRecognize/okOne
-.gif)
+![优化效果](http://112.124.41.46/bijinglong/candyimg/raw/master/DigtalRecognize/okOne.gif)
 
 ## 代码实现
 

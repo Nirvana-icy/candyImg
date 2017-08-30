@@ -14,6 +14,14 @@
 
 兔波波助手尝试采用 MVVM + RxSwift 来满足GUI编程的特点.
 
+> MVVM with RAC in 美团:
+
+![MVVM_RAC](https://raw.githubusercontent.com/Nirvana-icy/candyImg/master/RxAction/MVVM_RAC.png)
+
+![Error_Handling](https://raw.githubusercontent.com/Nirvana-icy/candyImg/master/RxAction/Error_Handling.png)
+
+模式与美团MVVM+RAC相同,我们Swift的项目选用RxSwfit这个框架.
+
 viewDidLoad时,绑定view与viewModel.这样viewModel中的数据变化时,界面也随之变化.
 
 当用户操作界面时 viewController 捕获到这些事件,然后调用viewModel中的特定方法,这些方法最终导致viewModel中数据的变化,再次反馈到界面上.
@@ -116,7 +124,7 @@ viewModel中的变量 也可通过.value 完成变量值的更新
 
 #### One more thing - 处理页面连跳 with RxSwift
 
-![Trello](https://raw.githubusercontent.com/Nirvana-icy/candyImg/master/RxAction/RxAction.gif)
+![One_More_Thing](https://raw.githubusercontent.com/Nirvana-icy/candyImg/master/RxAction/RxAction.gif)
 
 页面A 跳 B 跳 C Pop to A
 

@@ -12,15 +12,13 @@
 
 #### 概述
 
-兔波波助手尝试采用 MVVM + RxSwift 来满足GUI编程的特点.
-
 > MVVM with RAC in 美团:
 
 ![MVVM_RAC](https://raw.githubusercontent.com/Nirvana-icy/candyImg/master/RxAction/MVVM_RAC.png)
 
 ![Error_Handling](https://raw.githubusercontent.com/Nirvana-icy/candyImg/master/RxAction/Error_Handling.png)
 
-模式与美团MVVM+RAC相同,我们Swift的项目选用RxSwfit这个框架.
+模式与美团MVVM+RAC相同,我们尝试采用 MVVM + RxSwift 来满足GUI编程的特点.
 
 viewDidLoad时,绑定view与viewModel.这样viewModel中的数据变化时,界面也随之变化.
 

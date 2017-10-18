@@ -92,17 +92,11 @@ To 业务方:
 
 所以可以在主工程删除Header Bridge头文件.
 
-### Step 5 xcode 手工设置other link flag  🚗 🚗 🚗
-
-暂时手工在主工程 Build Settings > other link flag下添加vender framework中的framework.
-
-![otherLinkFlag](https://github.com/Nirvana-icy/candyImg/raw/master/iOS_AB_Test/otherLinkFlag.png)
-
-### Step 6 header search path 添加vender framework path   🚗 🚗 🚗
+### Step 5 header search path 添加vender framework path
 
 在 Build Settings > framework search path 中添加 vender framework的路径
 
-### Step 7 App内内置两个版本业务代码Pods后 xcode需要的设置
+### Step 6 App内内置两个版本业务代码Pods后 xcode需要的设置
 
 当预置两个版本业务代码Pods后,会出现Pods安装不成功.
 

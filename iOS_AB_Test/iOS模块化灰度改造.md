@@ -84,6 +84,10 @@ To 业务方:
 
 编译时找不到头文件,需要手工/[脚本](http://www.jianshu.com/p/a1d2d148fdd3)添加 module.modulemap.
 
+我们这里可采用在 podfile中添加脚本的方式 具体见下图:
+
+![podfile](https://github.com/Nirvana-icy/candyImg/raw/master/iOS_AB_Test/podfile.png)
+
 ### Step 4 去除之前App工程Header Bridge头文件.
 
 由于之前Swfit工程通过Header Bridge头文件去找引入OC代码的头文件.改造后引入的库封装到Pods中 以framework的形式引入工程,

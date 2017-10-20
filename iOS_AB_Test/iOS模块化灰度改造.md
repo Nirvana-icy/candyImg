@@ -116,10 +116,10 @@ Pods A & Pods B包含了同样的Vendor Framework.
 
 达到 主工程 包含 Pods A & Pods B. Pods A & Pods B没有引入两份相同的Vendor Framework,而是共用一份Vendor Framework.
 
-## Next Step
+## 参考资料
 
-1. 部分手工设置脚本化.
+[组件化-动态库实战](http://www.cocoachina.com/ios/20170427/19136.html)
 
-2. 随着业务组件拆分后,灰度模块划分粒度更贴近业务.
+[让CocoaPods static library支持Module](http://www.jianshu.com/p/a1d2d148fdd3)
 
-3. 稳定模块framework化,加快编译速度.
+[Xcode 创建.a和framework静态库](http://www.jianshu.com/p/43d55ae49f59)

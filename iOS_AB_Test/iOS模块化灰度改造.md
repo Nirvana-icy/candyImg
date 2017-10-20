@@ -62,9 +62,11 @@ To 业务方:
 
 ![Podspec](https://github.com/Nirvana-icy/candyImg/raw/master/iOS_AB_Test/podspec.png)
 
-### Step 2 部分三方静态库封装.
+### Step 2 .a形式的静态库处理.
 
-由于Pods中无法引入三方静态库,需要把三方静态库(比如微信支付)封装为动态库.
+由于Pods中无法引入.a形式的静态库,需要把.a形式的静态库(比如微信支付)封装为.framework形式的动态库或者静态库.
+
+这里我们封装为.framework形式的动态库.
 
 [封装过程](http://www.cocoachina.com/ios/20170427/19136.html)
 

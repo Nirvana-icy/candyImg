@@ -79,3 +79,7 @@ A B 两个版本封装为Pods放在同一个App内,依赖同一份三方Pods.
 > 3.Podfile/podspec中明确指定适用Pods的版本.
 
 > 4.Pods版本信息列入 版本身份证. 发版本前核对 Pods版本变动的情况.
+
+> 可对比检查podfile.lock文件中的信息，如下图:
+
+![Podfile.lock](https://github.com/Nirvana-icy/candyImg/raw/master/iOS_AB_Test/podlock.jpg)

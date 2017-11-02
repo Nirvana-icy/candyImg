@@ -83,3 +83,11 @@ A B 两个版本封装为Pods放在同一个App内,依赖同一份三方Pods.
 > 可对比检查podfile.lock文件中的信息，如下图:
 
 ![Podfile.lock](https://github.com/Nirvana-icy/candyImg/raw/master/iOS_AB_Test/podlock.jpg)
+
+#### 测试人员辅助工具
+
+![TestTool](https://github.com/Nirvana-icy/candyImg/raw/master/iOS_AB_Test/TestTool.jpg)
+
+> Tips 1. 模块配置版本 & 客户端当前使用模块版本 可在上图调试页面查看.
+
+> Tips 2. 可点击同步服务器按钮 发起配置同步操作.

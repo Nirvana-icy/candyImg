@@ -94,4 +94,4 @@ A B 两个版本封装为Pods放在同一个App内,依赖同一份三方Pods.
 
 #### 系统测试点
 
-![TestPoint](https://github.com/Nirvana-icy/candyImg/raw/master/iOS_AB_Test/testpoint.png)
+![TestPoint](https://github.com/Nirvana-icy/candyImg/raw/master/iOS_AB_Test/TestPoint.png)

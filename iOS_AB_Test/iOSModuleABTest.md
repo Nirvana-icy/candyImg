@@ -95,3 +95,18 @@ A B 两个版本封装为Pods放在同一个App内,依赖同一份三方Pods.
 #### 系统测试点
 
 ![TestPoint](https://github.com/Nirvana-icy/candyImg/raw/master/iOS_AB_Test/TestPoint.png)
+
+
+Voice To 虚拟手语翻译人物
+听障人士看美剧 Mooc内容学习 Ted
+
+代表项目&产品
+09 Symbian加密器
+2011 青年旅舍查询App Hostel_China    PM & iOS Dev
+2012 Galaxy Beam      PM
+2013 投影可交互手机     PM
+2014 骆驼书         PM & iOS Dev
+违章查询          iOS Dev
+车牌/手机号识别      PL & iOS Dev
+无线船坞             PM & PL
+iOS模块化灰度        PL & Dev

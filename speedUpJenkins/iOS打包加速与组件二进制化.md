@@ -19,10 +19,10 @@ Pod::Spec.new do |s|
   s.summary = "XGConfig."
   s.license = {"type"=>"MIT", "file"=>"FILE_LICENSE"}
   s.authors = {"name"=>"email address"}
-  s.homepage = "http://git.ops.com/XGN-IOS/XGConfig"
+  s.homepage = "http://xxx.com/xxx/XGConfig"
 
   s.ios.deployment_target    = '8.1'
-  s.source       = { :git => "http://git.ops.com/XGN-IOS/XGConfig.git", :tag => s.version.to_s }
+  s.source       = { :git => "http://xxx/XGConfig.git", :tag => s.version.to_s }
 
   if ENV['IS_SOURCE'] # 代码引入
     puts '-------------------------------------------------------------------'
@@ -46,7 +46,7 @@ end
 #### Step 2 Pods发版本时, 在Pods根目录 执行 Pod package命令生成framework版本的Pods.
 
 ``` ruby
-pod package XGConfig.podspec --dynamic --spec-sources=http://git.ops.com/XGN-IOS/xgn.git,https://github.com/CocoaPods/Specs.git
+pod package XGConfig.podspec --dynamic --spec-sources=http://xxx/xgn.git,https://github.com/CocoaPods/Specs.git
 
 ```
 

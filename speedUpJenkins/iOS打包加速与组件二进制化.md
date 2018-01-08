@@ -52,7 +52,7 @@ pod package XGConfig.podspec --dynamic --spec-sources=http://xxx/xgn.git,https:/
 
 #### Step 3 Pods根目录添加 Products/#{s.version}/文件夹 将对应版本的framework放在对应文件夹中.  与之前发布Pods的过程一样 发布新版本的Pods.
 
-![framework](https://github.com/Nirvana-icy/candyImg/raw/master/speedUpJenkins/framework.jpg)
+![framework](https://raw.githubusercontent.com/Nirvana-icy/candyImg/master/speedUpJenkins/framework.png)
 
 ## Well Done
 
@@ -72,4 +72,4 @@ pod cache clean #podsName  选择对应的的版本清除缓存
 
 ## One More Thing
 
-![briefSpec](https://github.com/Nirvana-icy/candyImg/raw/master/speedUpJenkins/briefSpec.jpg)
+![briefSpec](https://raw.githubusercontent.com/Nirvana-icy/candyImg/master/speedUpJenkins/briefSpec.jpg)

@@ -14,9 +14,9 @@
 
 > MVVM with RAC in 美团:
 
-![MVVM_RAC](https://raw.githubusercontent.com/Nirvana-icy/candyImg/master/RxAction/MVVM_RAC.png)
+![MVVM_RAC](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5RGy0dD4icfZ4tEZPsiaCK0pdZSm0vzZeybmfhaAdTticTTPzo8AH4GVwg/0?wx_fmt=png)
 
-![Error_Handling](https://raw.githubusercontent.com/Nirvana-icy/candyImg/master/RxAction/Error_Handling.png)
+![Error_Handling](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb56U0oaqgoFc4icajSyicusR4xaCHTiaepib94zv1kr8jQ3eOSF9TYdhkDaA/0?wx_fmt=png)
 
 模式与美团MVVM+RAC相同,我们尝试采用 MVVM + RxSwift 来满足GUI编程的特点.
 
@@ -122,7 +122,7 @@ viewModel中的变量 也可通过.value 完成变量值的更新
 
 #### One more thing - 处理页面连跳 with RxSwift
 
-![One_More_Thing](https://raw.githubusercontent.com/Nirvana-icy/candyImg/master/RxAction/RxAction.gif)
+![One_More_Thing](https://mmbiz.qpic.cn/mmbiz_gif/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb58ghtBrSxTLE8tvtSDDu3F9J4baibFnI1T4aA0coJp1ztkfhylT2UB7g/0?wx_fmt=gif)
 
 页面A 跳 B 跳 C Pop to A
 
@@ -201,7 +201,7 @@ limboy关于RxSwift的介绍写的很好,下面的内容摘取自 [是时候学�
 
 大致分为这么几个阶段：先把 Native Object 变成 Observable，再通过 Observable 内置的各种强大的转换和组合能力变成新的 Observable，最后消费新的 Observable 的数据。
 
-![Trello](https://raw.githubusercontent.com/Nirvana-icy/candyImg/master/RxAction/RxSwfitWorkflow.png)
+![Trello](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5QjUZZCHqjZw0IpjHKVh5TOACiafefAJUbXpDsvSv19LZlDDGTvYCCuQ/0?wx_fmt=png)
 
 ##### Native Object -> Observable  
 

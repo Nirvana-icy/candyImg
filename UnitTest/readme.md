@@ -96,17 +96,17 @@ func test > class test > service test || UI test
 
 #### XCTest Demo:
 
-![TestCaseWritenByXCTest](https://raw.githubusercontent.com/Nirvana-icy/candyImg/master/UnitTest/TestCaseWritenByXCTest.png)
+![TestCaseWritenByXCTest](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5tZnUTsLE3DxBjic1ThG7Pv666CIYNnWdr660mr9IQLKEiasN1nu0h4rA/0?wx_fmt=png)
 
 #### Quick Demo:
 
-![TestCaseWritenByQuick](https://raw.githubusercontent.com/Nirvana-icy/candyImg/master/UnitTest/TestCaseWritenByQuick.png)
+![TestCaseWritenByQuick](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5jUTJNKmFtnSCGnJ4sFK9zGoUfZML9g0Wf6lXZU1IvzfoDiaHDuujWcA/0?wx_fmt=png)
 
 #### 单元测试应用案例(学习样本)
 
-![XCTestWorkInAF](https://raw.githubusercontent.com/Nirvana-icy/candyImg/master/UnitTest/XCTestWorkInAF.png)
+![XCTestWorkInAF](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5UOvme8q72ibpvmicb0G5xerdOf5jfvFXtx6dGaLEIrw9fSiauybH54MGg/0?wx_fmt=png)
 
-![QuickWorkinRAC](https://raw.githubusercontent.com/Nirvana-icy/candyImg/master/UnitTest/QuickWorkinRAC.png)
+![QuickWorkinRAC](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb527KWTsjCmvDz6Xdf7Jgvot4pBEwMnM9moTz3Apic8ThjfKdbVuib0ibIg/0?wx_fmt=png)
 
 #### 单元测试落地计划:
 
@@ -120,8 +120,8 @@ func test > class test > service test || UI test
 
 #### 参考资料:
 
-1⃣️  [iOS单元测试基本介绍](https://baiduhidevios.github.io/2016/03/20/iOS单元测试/)
+1⃣️  [iOS单元测试基本介绍](https://baiduhidevios.github.io/2016/03/20/iOS单元测试/): https://baiduhidevios.github.io/2016/03/20/iOS单元测试/
 
-2⃣️  [Quick](https://github.com/Quick/Quick)
+2⃣️  [Quick](https://github.com/Quick/Quick): https://github.com/Quick/Quick 
 
-3⃣️  [Quick使用配置](http://www.jianshu.com/p/95e84dcada56)
+3⃣️  [Quick使用配置](http://www.jianshu.com/p/95e84dcada56): http://www.jianshu.com/p/95e84dcada56

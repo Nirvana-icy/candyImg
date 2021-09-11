@@ -7,7 +7,7 @@
 
 ### 3.冷却下来去看一点点理论
 
-![基本理论](https://github.com/Nirvana-icy/candyImg/raw/master/DDO2O/lilun.png)
+![基本理论](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5qbFKRlahgcN10x6HsfHNJphk6WX2h9rj7PVMPFC54LBibMFjRictnndQ/0?wx_fmt=png)
 
 ### 4.难点与机会
 
@@ -27,23 +27,23 @@
 
 线上与线下衔接不畅(没有发挥出信息系统对效率带来的价值)
 
-![现状](https://github.com/Nirvana-icy/candyImg/raw/master/DDO2O/xianzhuang.png)
+![现状](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5FzDje2ekWCmcLQ2hfQIRViawoBdaBFPM8pFopqocmzTjbTr19Hye9RQ/0?wx_fmt=png)
 
 当前版本评论
 
-![当前版本评论](https://github.com/Nirvana-icy/candyImg/raw/master/DDO2O/pinglunA.jpeg)
+![当前版本评论](https://mmbiz.qpic.cn/mmbiz_jpg/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb583jlBuA3MjexXrlgVNCsbIODpzL49Yo1UAcPORya2VgKkeFO6MYAiaA/0?wx_fmt=jpeg)
 
-![历史版本评论](https://github.com/Nirvana-icy/candyImg/raw/master/DDO2O/pinglunB.jpeg)
+![历史版本评论](https://mmbiz.qpic.cn/mmbiz_jpg/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb58ouibqibRUZrJ2PNEntEKuibv1yibHCJy7ZZibGHHDGKZDTj7C12ftiarRwA/0?wx_fmt=jpeg)
 
 历史版本评论
 
-![历史版本评论](https://github.com/Nirvana-icy/candyImg/raw/master/DDO2O/pinglunC.jpeg)
+![历史版本评论](https://mmbiz.qpic.cn/mmbiz_jpg/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5ykQy7S6icbTXgwpNic3ibiapXic8BwxS8UzIIZ12ZQBgJ5PCEMPlPJa2tSg/0?wx_fmt=jpeg)
 
 用户眼中的洗车服务
 
-![洗车用户感受](https://github.com/Nirvana-icy/candyImg/raw/master/DDO2O/xicheA.jpeg)
+![洗车用户感受](https://mmbiz.qpic.cn/mmbiz_jpg/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5PMRzpd8ShsPqicqsRn2sfU6quoib86y6WttpNzdMmPCBDFXRVtDbHlpA/0?wx_fmt=jpeg)
 
-![洗车用户感受](https://github.com/Nirvana-icy/candyImg/raw/master/DDO2O/xicheB.jpeg)
+![洗车用户感受](https://mmbiz.qpic.cn/mmbiz_jpg/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5xxkAvcicD8pwciaQB2q10MHuo0OznzonI3zEc5CGBjk1qDj2onkdIIQQ/0?wx_fmt=jpeg)
 
 ####  机会:
 平台&连锁两种模式,我们探索过平台模式后重心投在了连锁模式.
@@ -62,19 +62,19 @@
 
 #### 6.1 什么是服务设计
 
-![whatisSD](https://github.com/Nirvana-icy/candyImg/raw/master/DDO2O/whatisSD.png)
+![whatisSD](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5wpuQuoC6TWVmXhuzyv7zgVcGicZ0BibRhZ9AnMevAAdqoXq9Y9eCqngA/0?wx_fmt=png)
 
 #### 6.2 服务设计方法论
 
-![sdIntro.png](https://github.com/Nirvana-icy/candyImg/raw/master/DDO2O/sdIntro.png)
+![sdIntro.png](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5hicNqJicpXvNibZhwMwxzrHAWq8snX1hTGNaoAibw2hpSxK5DWCA8s7NZA/0?wx_fmt=png)
 
-![jouneryMap.png](https://github.com/Nirvana-icy/candyImg/raw/master/DDO2O/jouneryMap.png)
+![jouneryMap.png](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb55g1aWStib1HbqsjQAF0rQk6DwbYlydpibnyDIE872HWgRbBh0Ew7gsfQ/0?wx_fmt=png)
 
-![serviceBlueprintA](https://github.com/Nirvana-icy/candyImg/raw/master/DDO2O/serviceBlueprintA.png)
+![serviceBlueprintA](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5gBMicrtVToeLZER36YfAu6XFhGvbBkBbLtBmwLVycmElIgdQyRj87MA/0?wx_fmt=png)
 
-![serviceBlueprintB](https://github.com/Nirvana-icy/candyImg/raw/master/DDO2O/serviceBlueprintB.png)
+![serviceBlueprintB](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb55seBdq7GPvI5wX7GiaRye2GyNkp2m1D7Dh6mrFHEhI42Vn7t5oSibibJQ/0?wx_fmt=png)
 
-![serviceBlueprintC](https://github.com/Nirvana-icy/candyImg/raw/master/DDO2O/serviceBlueprintC.png)
+![serviceBlueprintC](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5ticgxFb7qq8EfZagBzDHGdbJ6btT6g8aQfNEa2kOiaoUkSB6zPibQPV2Q/0?wx_fmt=png)
 
 **User Journey Map & Service Blueprint**
 
@@ -88,7 +88,7 @@ http://resources.practicalservicedesign.com/ExampleCupcakeBlueprint.pdf
 
 **让用户愉悦的接受服务 产生购买行为是关键**
 
-![happyending](https://github.com/Nirvana-icy/candyImg/raw/master/DDO2O/happyending.png)
+![happyending](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5vUGHgUWhUJGtRXHbO1bx4ibjmiaicvnkYCREbrG7VSDUqHZH0UG5L33dw/0?wx_fmt=png)
 
 ##### 借用Erick文章结尾的一句话:
 
@@ -164,7 +164,7 @@ Service Design Blueprinting is not about documenting the customer experience. It
 而是带来用户舒心满意的服务->触发用户的消费动机=>产生相应的购买行为.
 用户通过典典养车App可以一站式 触及到典典线下标准化信息化的优质服务&车务车险线上便捷服务 用户会主动买年卡的.
 
-###### 引用资源
+### 引用资源
 1. http://uedc.163.com/12158.html
 2. https://blog.practicalservicedesign.com/the-difference-between-a-journey-map-and-a-service-blueprint-31a6e24c4a6c#.qt6yp62cy
 3. http://resources.practicalservicedesign.com/ExampleCupcakeBlueprint.pdf

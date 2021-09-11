@@ -2,7 +2,11 @@
 
 ## 数字识别的基本过程
 
-![数字识别的基本过程](https://github.com/Nirvana-icy/candyImg/raw/master/DigtalRecognize/digitalRecognize.png)
+![数字识别的基本过程](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5BQJgVtQc0jAJTu8Xf9iapVjGBAYTz64LE7qyKmIes01SdGIqia6HicTgg/0?wx_fmt=png)
+
+## 效果
+
+![One_More_Thing](https://mmbiz.qpic.cn/mmbiz_gif/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb58ghtBrSxTLE8tvtSDDu3F9J4baibFnI1T4aA0coJp1ztkfhylT2UB7g/0?wx_fmt=gif)
 
 在第一,二步图像获取与预处理后
 

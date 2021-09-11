@@ -12,17 +12,17 @@
 
 ##### 实现逻辑:
 
-![内部逻辑](https://github.com/Nirvana-icy/candyImg/raw/master/iOS_AB_Test/logic.png)
+![内部逻辑](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5uRKpv9PWIhwRC8kwB65PztYkKj32VdMd61ibxtSTGm3WN4tCXBK4DeA/0?wx_fmt=png)
 
 > 说明: App启动 > 读取本地模块配置信息(目前存放在NSUserDefault中) > 启动不同Pods中的模块
 
 > App启动时 异步查询CMS版本管理服务器 > 是否有更新的配置版本 > 如果服务器版本新于本地版本 > 更新本地版本号
 
->  > 继续在本地对比本机是否属于 服务器配置中的 适用机型 & 版本 => 如果本机属于 则更新本地 模块配置信息的内容.
+>  继续在本地对比本机是否属于 服务器配置中的 适用机型 & 版本 => 如果本机属于 则更新本地 模块配置信息的内容.
 
 ##### 接口设计
 
-![接口设计](https://github.com/Nirvana-icy/candyImg/raw/master/iOS_AB_Test/interface.png)
+![接口设计](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb521XIdpyDLwhfgJBXtyU5zRPhfF8NHE7G2ty1XXqQEEdUP2CqicbeuRg/0?wx_fmt=png)
 
 > 通过App启动访问接口 客户端拿到新的配置  服务端统计客户端版本/机型  配置下发数量等信息.
 
@@ -46,15 +46,15 @@
 
 Step One. 选择 iOS & Android > 对应App > 注册新版本
 
-![Step One.](https://github.com/Nirvana-icy/candyImg/raw/master/iOS_AB_Test/step1.jpg)
+![Step One.](https://mmbiz.qpic.cn/mmbiz_jpg/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5jExmJfHib5ndynCtXFyL8tYHF6ld1IOjhFD9VSDMs7OicsdKdXTWwerA/0?wx_fmt=jpeg)
 
 Step Two. 填写 1.4.00 版本内置的模块版本信息 比如 rider_all 1.3.90 & 1.4.00 并 选择App内置的默认版本号.
 
-![Step Two.](https://github.com/Nirvana-icy/candyImg/raw/master/iOS_AB_Test/step2.jpg)
+![Step Two.](https://mmbiz.qpic.cn/mmbiz_jpg/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5uSBTVYzlk7eSRxHqzZAQmQgS5SO33lm0JSNAticyueoYYlAhiaHqV4MQ/0?wx_fmt=jpeg)
 
 ##### 3. 需要下发新配置时 > CMS版本管理系统 > 对应App > 版本管理 > 1.4.00版本 > 点击 新增配置
 
-![Step Two.](https://github.com/Nirvana-icy/candyImg/raw/master/iOS_AB_Test/step3.jpg)
+![Step Three.](https://mmbiz.qpic.cn/mmbiz_jpg/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5kxOIkXorDC8m31ENrxiaSzRTibDZibPKDznVdt2lzopK8Zibg8JtnTn7mw/0?wx_fmt=jpeg)
 
 填入配置信息. iOS版本 & 手机型号 可多选,不选代表配置适用全部版本 or 机型.
 
@@ -82,11 +82,11 @@ A B 两个版本封装为Pods放在同一个App内,依赖同一份三方Pods.
 
 > 可对比检查podfile.lock文件中的信息，如下图:
 
-![Podfile.lock](https://github.com/Nirvana-icy/candyImg/raw/master/iOS_AB_Test/podlock.jpg)
+![Podfile.lock](https://mmbiz.qpic.cn/mmbiz_jpg/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5m8QMicCwZRiahADJBicZuBCMerrMcGp7UoeuDTgWibVULkibkciaFvmEPMFA/0?wx_fmt=jpeg)
 
 #### 测试人员辅助工具
 
-![TestTool](https://github.com/Nirvana-icy/candyImg/raw/master/iOS_AB_Test/TestTool.jpg)
+![TestTool](https://mmbiz.qpic.cn/mmbiz_jpg/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5EyC9E0ln4nasegkMHKdGcCKXkV7eux1Jm1iabxEHYFKgFZNrZK4mhkQ/0?wx_fmt=jpeg)
 
 > Tips 1. 模块配置版本 & 客户端当前使用模块版本 可在上图调试页面查看.
 
@@ -94,19 +94,4 @@ A B 两个版本封装为Pods放在同一个App内,依赖同一份三方Pods.
 
 #### 系统测试点
 
-![TestPoint](https://github.com/Nirvana-icy/candyImg/raw/master/iOS_AB_Test/TestPoint.png)
-
-
-Voice To 虚拟手语翻译人物
-听障人士看美剧 Mooc内容学习 Ted
-
-代表项目&产品
-09 Symbian加密器
-2011 青年旅舍查询App Hostel_China    PM & iOS Dev
-2012 Galaxy Beam      PM
-2013 投影可交互手机     PM
-2014 骆驼书         PM & iOS Dev
-违章查询          iOS Dev
-车牌/手机号识别      PL & iOS Dev
-无线船坞             PM & PL
-iOS模块化灰度        PL & Dev
+![TestPoint](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5SUia8SyPwJNauTtYibZRibuqfyjyibcncw63IedO7MVaodGgBNib2aZeomg/0?wx_fmt=png)

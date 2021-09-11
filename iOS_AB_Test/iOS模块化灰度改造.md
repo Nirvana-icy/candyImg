@@ -48,7 +48,7 @@ To 业务方:
 
 ## 方案总揽
 
-![方案总揽](https://github.com/Nirvana-icy/candyImg/raw/master/iOS_AB_Test/iOSABTest.png)
+![方案总揽](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb52eyLXUHMicvDe26wsxBLTWlMib64hTAgApM0SkwicMJPa0BVib9ic6E1qyw/0?wx_fmt=png)
 
 ## 方案缺点
 
@@ -60,7 +60,7 @@ To 业务方:
 
 ### Step 1 将代码封装到Pods中管理,制作Podspec.
 
-![Podspec](https://github.com/Nirvana-icy/candyImg/raw/master/iOS_AB_Test/podspec.png)
+![Podspec](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5s7ACf07hUuRo80z9g8ZaibiaB32sSQLPKORgIT1I33XDGutcgxW3iaIqg/0?wx_fmt=png)
 
 ### Step 2 .a形式的静态库处理.
 
@@ -74,11 +74,11 @@ To 业务方:
 
 编译时如果遇到找不到头文件,请检查WXPay.framework中的module.modulemap 是否包含下图中的头文件.
 
-![WXPay modulemap](https://github.com/Nirvana-icy/candyImg/raw/master/iOS_AB_Test/modulemap.png)
+![WXPay modulemap](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5XanDOachTuiaRUlLvL9JXViaqSCtzia2awbJT4BIMHaFrsnIeTibDnD59A/0?wx_fmt=png)
 
 或者 在 module.modulemap中指定的umbrella header文件WXPay.h中 引入需要暴漏的头文件 如下图. 也比较推荐这种方式.
 
-![WXPay modulemap](https://github.com/Nirvana-icy/candyImg/raw/master/iOS_AB_Test/umbrella_header.png)
+![WXPay modulemap](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5STjZOo7P4DBjict9XVNs4iczxudVxDko6qmFl5iarqZFE9RBrZMSyzU4A/0?wx_fmt=png)
 
 ### Step 3 部分vendor framework完善.
 
@@ -88,7 +88,7 @@ To 业务方:
 
 我们这里可采用在 podfile中添加脚本的方式 具体见下图:
 
-![podfile](https://github.com/Nirvana-icy/candyImg/raw/master/iOS_AB_Test/podfile.png)
+![podfile](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb53M4wKibh2iaicqEHrh9jlyJdibkjg8ts0q7zUMWfd9FPaCLDkGeSN9jvYQ/0?wx_fmt=png)
 
 ### Step 4 去除之前App工程Header Bridge头文件.
 

@@ -120,8 +120,8 @@ func test > class test > service test || UI test
 
 #### 参考资料:
 
-1⃣️  [iOS单元测试基本介绍](https://baiduhidevios.github.io/2016/03/20/iOS单元测试/): https://baiduhidevios.github.io/2016/03/20/iOS单元测试/
+1⃣️  [iOS单元测试基本介绍](https://baiduhidevios.github.io/2016/03/20/iOS单元测试/)
 
-2⃣️  [Quick](https://github.com/Quick/Quick): https://github.com/Quick/Quick 
+2⃣️  [Quick](https://github.com/Quick/Quick)
 
-3⃣️  [Quick使用配置](http://www.jianshu.com/p/95e84dcada56): http://www.jianshu.com/p/95e84dcada56
+3⃣️  [Quick使用配置](http://www.jianshu.com/p/95e84dcada56)

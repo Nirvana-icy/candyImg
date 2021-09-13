@@ -12,7 +12,9 @@
 
 ## 思路
 
-Pods发布时包含源代码版本与Framework的版本，业务开发阶段Jenkins打包时仅需编译DevPods，无需重复编译其他Pods。
+Pods发布时包含源代码版本与Framework的版本。
+
+业务开发阶段Jenkins打包时仅需编译DevPods，无需重复编译其他Pods。
 
 开发同学调试时可以方便切换Pods为源代码引入。
 

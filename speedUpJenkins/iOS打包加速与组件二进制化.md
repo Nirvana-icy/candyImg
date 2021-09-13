@@ -1,6 +1,14 @@
 # iOS打包加速与组件二进制化
 
-随着iOS模块化灰度改造方案[iOS模块化灰度 A/BTest](https://www.jianshu.com/p/e112002d9660)的实施,以及组件化拆分的完成与稳定。项目总体由DevPods,StablePods,组件Pods以及3rd Pods组成。业务开发中开发人员较多的在改变DevPods的代码,其他Pods相对稳定。此时我们可以二进制化组件来加速Jenkins打包的速度。
+随着iOS模块化灰度改造方案[iOS模块化灰度 A/BTest](https://www.jianshu.com/p/e112002d9660)的实施,
+
+以及组件化拆分的完成与稳定。
+
+项目总体由DevPods, StablePods, 组件Pods以及3rd Pods组成。
+
+业务开发中开发人员较多的在改变DevPods的代码, 其他Pods相对稳定。
+
+此时我们可以二进制化组件来加速Jenkins打包的速度。
 
 ## 思路
 
